@@ -1,0 +1,13 @@
+.container-header {
+    background-color: #f8f9fa;
+    padding: 20px;
+    border-radius: 10px;
+}
+
+.table-hover tbody tr:hover {
+    background-color: #e2e6ea;
+}
+
+footer {
+    margin-top: 20px;
+}
